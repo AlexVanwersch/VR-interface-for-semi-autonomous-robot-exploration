@@ -1,1 +1,7 @@
-# VR-interface-for-semi-autonomous-robot-exploration
+# VRInterface
+ 
+Things that were added to the ROSIntegration plugin blueprints:
+
+- Odometry
+
+- OccupancyGrid
